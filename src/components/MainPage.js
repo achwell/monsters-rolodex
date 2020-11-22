@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
-import CardList from './card-list/card-list.component';
-import SearchBox from './search-box/search-box.component';
+import CardList from './CardList';
+import SearchBox from './SearchBox';
 import Scroll from './Scroll';
 import ErrorBoundry from './ErrorBoundry';
 import Header from './Header';
